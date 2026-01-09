@@ -1,1 +1,1 @@
-[https://www.kaggle.com/datasets/dhrubangtalukdar/magnus-carlsen-chess-com-games](Kaggle Data Science About Magnus Carlsen Chess Games)
+[Kaggle Magnus Carlsen Chess Games](https://www.kaggle.com/datasets/dhrubangtalukdar/magnus-carlsen-chess-com-games)
